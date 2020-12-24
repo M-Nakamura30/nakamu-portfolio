@@ -98,7 +98,7 @@ function randomCharactor(c) {
     }
 }
 
-//クラス名が pyonpyon のクラスを跳ねさせる
+//HELLO, WORLD跳ねさせる
 randomCharactor("bounce");
 
   })(jQuery); // End of use strict

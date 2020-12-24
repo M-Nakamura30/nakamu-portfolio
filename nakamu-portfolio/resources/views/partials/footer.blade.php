@@ -1,3 +1,4 @@
+<footer class="footer text-center" style="padding: 10px;">
 <div class="container">
 	<div class="row">
 		<!-- Footer Location-->
@@ -10,4 +11,8 @@
 		<!-- Footer About Text-->
 		<div class="col-lg-4"></div>
 	</div>
+	<div class="container" style="padding-top: 10px;">
+		<small>©︎<?php echo date("Y"); ?> Nakamura ALL rights reserved.</small>
+	</div>
 </div>
+</footer>
