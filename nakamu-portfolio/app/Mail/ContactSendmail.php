@@ -23,7 +23,7 @@ class ContactSendmail extends Mailable
     public function __construct($inputs )
     {
         $this->name = $inputs['name'];
-        $this->mail = $inputs['email'];
+        $this->email = $inputs['email'];
         $this->body  = $inputs['body'];
     }
 
