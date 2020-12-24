@@ -22,7 +22,7 @@
                 <!-- Portfolio Item 1-->
                 <div class="col-md-6 col-lg-4 mb-5">
                     <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
-                        <a href="">
+                        <!-- <a href=""> -->
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white">TODOシステム<br>(修正中のため遷移しません。)
                                 </div>
